@@ -1,0 +1,27 @@
+id: IB5C37A44
+source: https://library.bdrc.io
+source_file: null
+initial_creation_type: ocr
+imported: '2020-03-25T12:37:18+00:00'
+last_modified: '2022-06-08T06:39:13.740534+00:00'
+parser: https://github.com/OpenPecha-dev/openpecha-toolkit/blob/231bba39dd1ba393320de82d4d08a604aabe80fc/openpecha/formatters/google_orc.py
+source_metadata:
+  id: bdr:W00KG05
+  title: སེ་ར་དགོན་པའི་གནས་བཤད་དང་རྗེ་བྱམས་ཆེན་ཆོས་རྗེའི་རྣམ་ཐར
+  author: ''
+  access: http://purl.bdrc.io/admindata/AccessFairUse
+  restrictedInChina: false
+  base:
+    CCCC:
+      image_group_id: I1GS65486
+      title: ''
+      total_pages: 75
+      order: 1
+      base_file: CCCC.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
